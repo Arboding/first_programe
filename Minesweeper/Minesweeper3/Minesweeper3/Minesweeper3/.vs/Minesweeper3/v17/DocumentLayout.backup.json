@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5011C79-98B8-43A4-B112-63290150B839}|Minesweeper3\\Minesweeper3.vcxproj|C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5011C79-98B8-43A4-B112-63290150B839}|Minesweeper3\\Minesweeper3.vcxproj|solutionrelative:Minesweeper3\\game_logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5011C79-98B8-43A4-B112-63290150B839}|Minesweeper3\\Minesweeper3.vcxproj|C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\view.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5011C79-98B8-43A4-B112-63290150B839}|Minesweeper3\\Minesweeper3.vcxproj|solutionrelative:Minesweeper3\\view.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5011C79-98B8-43A4-B112-63290150B839}|Minesweeper3\\Minesweeper3.vcxproj|C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5011C79-98B8-43A4-B112-63290150B839}|Minesweeper3\\Minesweeper3.vcxproj|solutionrelative:Minesweeper3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5011C79-98B8-43A4-B112-63290150B839}|Minesweeper3\\Minesweeper3.vcxproj|C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\settings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A5011C79-98B8-43A4-B112-63290150B839}|Minesweeper3\\Minesweeper3.vcxproj|solutionrelative:Minesweeper3\\settings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game_logic.cpp",
+              "DocumentMoniker": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\game_logic.cpp",
+              "RelativeDocumentMoniker": "Minesweeper3\\game_logic.cpp",
+              "ToolTip": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\game_logic.cpp*",
+              "RelativeToolTip": "Minesweeper3\\game_logic.cpp*",
+              "ViewState": "AgIAADsBAAAAAAAAAAAAAE0BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T12:57:27.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\main.cpp",
+              "RelativeDocumentMoniker": "Minesweeper3\\main.cpp",
+              "ToolTip": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\main.cpp",
+              "RelativeToolTip": "Minesweeper3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T10:22:05.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "view.cpp",
+              "DocumentMoniker": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\view.cpp",
+              "RelativeDocumentMoniker": "Minesweeper3\\view.cpp",
+              "ToolTip": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\view.cpp",
+              "RelativeToolTip": "Minesweeper3\\view.cpp",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAFsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T10:19:47.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "settings.cpp",
+              "DocumentMoniker": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\settings.cpp",
+              "RelativeDocumentMoniker": "Minesweeper3\\settings.cpp",
+              "ToolTip": "C:\\Users\\wjh\\Desktop\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\Minesweeper3\\settings.cpp",
+              "RelativeToolTip": "Minesweeper3\\settings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T10:19:46.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
