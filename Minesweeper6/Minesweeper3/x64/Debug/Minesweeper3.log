@@ -1,0 +1,17 @@
+﻿  data.cpp
+  game_logic.cpp
+  main.cpp
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(341,36): warning C4244: “return”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(341,36): warning C4244:         with
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(341,36): warning C4244:         [
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(341,36): warning C4244:             _Rep=__int64
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(341,36): warning C4244:         ]
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(346,36): warning C4244: “return”: 从“_Rep”转换到“int”，可能丢失数据
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(346,36): warning C4244:         with
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(346,36): warning C4244:         [
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(346,36): warning C4244:             _Rep=__int64
+C:\Users\wjh\Desktop\Minesweeper4\Minesweeper3\game_logic.cpp(346,36): warning C4244:         ]
+  settings.cpp
+  view.cpp
+  正在生成代码...
+  Minesweeper3.vcxproj -> C:\Users\wjh\Desktop\Minesweeper4\x64\Debug\Minesweeper3.exe
